@@ -222,6 +222,10 @@ section.blue {
   background-color: #cadfdf;
 }
 
+section.petrol {
+  background-color: #bec2cb;
+}
+
 section.orange {
   color: #fff;
   background-color: #fb7833;
@@ -231,13 +235,26 @@ section.green {
   background-color: #aaffa7;
 }
 
+section.pistaccio {
+  background-color: #ced19f;
+}
+
 section.skin {
   background-color: #fdead2;
 }
 
 section.aqua {
-  background-color: #00fefe;
+  background-color: #aab7c9;
   color: #000 !important;
+}
+
+section.cinnamon {
+  background-color: #c2aa81;
+  color: #000 !important;
+}
+
+section.cinnamon .progress .bg-coffee {
+  background-color: #978061;
 }
 
 section.pink {
@@ -250,7 +267,7 @@ section.pink {
 }
 
 .progress .bg-blue {
-  background-color: #2e96a5;
+  background-color: #666878;
 }
 
 .card {
